@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    username: root
+    password: xc19961016
+    url: jdbc:mysql:///imooc
+    driver-class-name: com.mysql.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+    initialSize: 5
